@@ -23,8 +23,8 @@
     <!-- Form Section -->
     <section id="form-sec" class="form-sec">
       <h3 class="add-score">Add your score</h3>
-      <form action="submit" id="form" class="form">
-        <input type="text" id="name" class="name" placeholder="Name" required>
+      <form action="https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/" id="form" class="form">
+        <input name="name" type="text" id="name" class="name" placeholder="Name" required>
         <input type="text" id="score" class="score" placeholder="Score" required>
         <button type="submit" id="submit" class="submit">Submit</button>
       </form>
