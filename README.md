@@ -1,6 +1,4 @@
-# Space-Tourism-App![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Leaderboard: Setup project
+# Leaderboard: hit the API
 
 > EKCode Training page is a Website for EKcode. 
   In this project the featured section is implemented dynamically with Javascript.
