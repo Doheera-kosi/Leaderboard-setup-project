@@ -1,5 +1,3 @@
-# Space-Tourism-App![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Leaderboard: Setup project
 
 > EKCode Training page is a Website for EKcode. 
