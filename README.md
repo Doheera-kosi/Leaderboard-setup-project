@@ -1,56 +1,65 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Leaderboard: hit the API
 
-# Project Name
+> EKCode Training page is a Website for EKcode. 
+  In this project the featured section is implemented dynamically with Javascript.
 
-> Description the project.
+## Screenshot of project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, JAVASCRIPT
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+## To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+* A basic knowledge of html, css, and javascript
+
 ### Setup
+
+Download the zip file for repository and unzip it.
+You should have a code editor
+
+**please get your browser update. To get a local copy up and running follow these simple steps.**
+
+Run the command below from the terminal
+
+- git clone in your terminal
+- start index.html
 
 ### Install
 
-### Usage
+Install any code editor of you choice
+Install linters for Html, Css, and Javascript
 
 ### Run tests
 
+To run tests you can use the following commands
+For HTML you should run " npx hint . " on your terminal in root directory of project
+For CSS you should run " npx stylelint "**/*.{css,scss}" " on your terminal in root directory of project.
+For Javascript you can run " npx eslint . on your terminal in the root directory of project
+
 ### Deployment
 
-
+N/A
 
 ## Authors
 
 👤 **Author1**
+## Evans Kupour
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/doheera-kosi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evans-kupour-1879421a3/)
 
 ## 🤝 Contributing
 
@@ -65,8 +74,9 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks for Microverse for providing this platform.
+- Original design idea by Cindy Shin in Behance. Thank you
+- Many thanks to Hammas-Saleem. A senior code Review at Microverse. (A mentor I found myself in Microverse)
 
 ## 📝 License
 
