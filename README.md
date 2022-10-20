@@ -1,4 +1,4 @@
-# Leaderboard: hit the API
+# Leaderboard: Final touches
 
 Demonstrated the use of Callbacks, Promises, ES6, Webpack and Modular JS
 
