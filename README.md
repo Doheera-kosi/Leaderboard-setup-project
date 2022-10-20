@@ -1,7 +1,27 @@
 # Leaderboard: hit the API
 
-> EKCode Training page is a Website for EKcode. 
-  In this project the featured section is implemented dynamically with Javascript.
+Demonstrated the use of Callbacks, Promises, ES6, Webpack and Modular JS
+
+## Objectives
+- [x] Use callbacks and promises.
+- [x] Learn how to use proper ES6 syntax.
+- [x] Use ES6 modules to write modular JavaScript.
+- [x] Use webpack to bundle JavaScript.
+- [x] Send and receive data from an API.
+- [x] Use API documentation.
+- [x] Understand and use JSON.
+- [x] Make JavaScript code asynchronous.
+- [x] Understand how to use medium-fidelity wireframes to create a UI
+
+### Milestone Reached
+- Create an npm project with webpack.
+- Write plain HTML markup with minimum styling
+- Use ES6 modules, with import and export.
+- Implement the "Refresh" button that will get all scores for a game created from the API
+- Implement the form "Submit" button that will save a score for a game
+- Use arrow functions instead of the function keyword.
+- Use async and await JavaScript features to consume the API.
+- Apply CSS
 
 ## Screenshot of project
 
