@@ -32,7 +32,7 @@ Demonstrated the use of Callbacks, Promises, ES6, Webpack and Modular JS
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+[Live Demo Link](https://doheera-kosi.github.io/Leaderboard-setup-project/dist/)
 
 
 ## Getting Started
