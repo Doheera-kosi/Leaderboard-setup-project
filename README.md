@@ -3,15 +3,15 @@
 Demonstrated the use of Callbacks, Promises, ES6, Webpack and Modular JS
 
 ## Objectives
-- [x] Use callbacks and promises.
-- [x] Learn how to use proper ES6 syntax.
-- [x] Use ES6 modules to write modular JavaScript.
-- [x] Use webpack to bundle JavaScript.
-- [x] Send and receive data from an API.
-- [x] Use API documentation.
-- [x] Understand and use JSON.
-- [x] Make JavaScript code asynchronous.
-- [x] Understand how to use medium-fidelity wireframes to create a UI
+ [x] Use callbacks and promises.
+ [x] Learn how to use proper ES6 syntax.
+ [x] Use ES6 modules to write modular JavaScript.
+ [x] Use webpack to bundle JavaScript.
+ [x] Send and receive data from an API.
+ [x] Use API documentation.
+ [x] Understand and use JSON.
+ [x] Make JavaScript code asynchronous.
+ [x] Understand how to use medium-fidelity wireframes to create a UI
 
 ### Milestone Reached
 - Create an npm project with webpack.
@@ -30,9 +30,7 @@ Demonstrated the use of Callbacks, Promises, ES6, Webpack and Modular JS
 
 - HTML, CSS, JAVASCRIPT
 
-## Live Demo (if available)
-
-[Live Demo Link](https://doheera-kosi.github.io/Leaderboard-setup-project/dist/)
+## Live Demo [Live Demo Link](https://doheera-kosi.github.io/Leaderboard-setup-project/dist/)
 
 
 ## Getting Started
