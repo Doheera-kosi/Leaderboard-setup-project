@@ -16,6 +16,7 @@ export const renderScores = (allMembers) => {
         <label class='lname'> ${user.user} : </label> 
         <label class='lscore'> ${user.score} </label>
       </li>
+      <hr>
     `;
   });
 };
