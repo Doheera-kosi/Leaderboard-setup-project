@@ -1,8 +1,8 @@
 // Declaring and Initializing global variables
 const userName = document.querySelector('#name');
 const userScore = document.querySelector('#score');
-const gameForm = document.querySelector('#form');
 const refreshBtn = document.querySelector('#refresh');
+const gameForm = document.querySelector('#form');
 const gameURL = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/eb3tufSC8mHnDPCqR6T5/scores/';
 const element = document.querySelector('#list');
 
